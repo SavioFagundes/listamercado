@@ -24,7 +24,7 @@ HTML5, CSS3, JavaScript (ES6+)
 
 Como Executar
 
-Clone o repositório: git clone https://github.com/seu-usuario/javascript-paginas-dinamicas.git
+Clone o repositório: git clone https://github.com/SavioFagundes/javascript-paginas-dinamicas.git
 
 Acesse a pasta: cd javascript-paginas-dinamicas
 
